@@ -2,7 +2,7 @@
 
 This is a basic app that allows adding and removing items into a list adapater. The list is saved to disk after every change. The list will contain a todo item "Create your first item" if the list is empty.
 
-Time spent: < 1 hour
+Time spent: 1 hour
 
 Completed user stories:
 
